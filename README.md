@@ -1,27 +1,371 @@
- # 💫 About Me:
-Hi, I'm Rohan Yadav. I specialize in web development, AI-powered solutions, and digital marketing. I love building professional websites, business tools, and modern web applications that combine great design with practical functionality.
+
+Today 2:16 AM
+1000081000.jpg
+Is ke liye do kuch 
+
+Haan, is Facebook life event ke “Say something about this…” mein simple aur classy line achhi lagegi.
+
+Mere top picks:
+
+“A new chapter begins. 🚀”
+
+“Building something I believe in.”
+
+“New beginnings. Bigger dreams.”
+
+“Turning ideas into reality.”
+
+“Started small. Dreaming big.”
+
+“Another step toward the bigger picture.”
+
+“Creating. Learning. Growing.”
+
+“Just getting started. ✨”
+
+“A new journey, a new chapter.”
+
+“Building my path, one step at a time.”
+
+Tumhare profile ke liye meri choice:
+
+“A new chapter begins. Building something I believe in. 🚀”
+
+Ye professional bhi lagega aur over-showoff bhi nahi lagega.
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rhnyadav) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rhnynn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohannnyadav04@gmail.com) 
+1000081001.jpg
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rhnyadav&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=rhnyadav&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rhnyadav&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Haan, is Work section ko professional aur future-oriented rakhna hai to main aise fill karunga:
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rhnyadav&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+Workplace: Rohan Advertising & Marketing
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Job title: Founder & Developer
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rhnyadav&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Currently work here: ✅
 
----
-[![](https://komarev.com/ghpvc/?username=rhnyadav&icon=0&color=0)](https://visitcount.itsvg.in)
+Start date: jis date se actual start kiya hai
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Location: apni city
+
+Description: Building digital products, websites and creative solutions.
+
+Agar tum apni developer identity ko zyada highlight karna chahte ho, to Job Title ke liye ye options bhi achhe hain:
+
+Founder & Developer ⭐
+
+Founder & Software Developer
+
+Founder | Developer
+
+Entrepreneur & Developer
+
+Founder & Digital Creator
+
+Meri recommendation: Founder & Developer — short, clean aur professional.
+
+
+1000081002.jpg
+
+Haan, ab profile ka setup kaafi clean lag raha hai. 👍
+
+Bas ye 3 cheezein fill kar do:
+
+Start date: jis month/year mein tumne Rohan Advertising & Marketing actually start kiya.
+
+Location: apni city, e.g. India ya apni city name.
+
+Description:
+Building digital solutions, creative ideas, and meaningful brands.
+
+Final setup
+Workplace: Rohan Advertising & Marketing
+Job title: Founder & Developer
+Currently work here: ✅ Yes
+Location: Your City, India
+Description: Building digital solutions, creative ideas, and meaningful brands.
+
+Agar tum developer identity ko zyada strong dikhana chahte ho, description ka aur aesthetic version:
+
+Building products. Solving problems. Creating the future. ✨
+
+👉 Main second wala recommend karunga — Facebook profile par short, mature aur developer-type feel dega.
+
+
+1000081003.jpg
+
+Haan, image Facebook post ke liye kaafi aesthetic lag rahi hai. Iske saath caption bhi minimal rakhna best rahega—zyada explain nahi.
+
+Best caption
+“Discipline today. Freedom tomorrow. ✦”
+
+Aur kuch alternatives:
+
+“Building quietly. Becoming better.”
+
+“One step closer to the life I envision.”
+
+“Focus. Build. Repeat.”
+
+“Work in silence. Let the results speak.”
+
+“Creating the future, one line at a time.”
+
+“Slow progress is still progress.”
+
+“A little discipline. A lot of dreams.”
+
+Meri pick:
+
+Building quietly. Becoming better. ✦
+
+Ye tumhari profile ke overall developer + aesthetic + low-key ambitious vibe ke saath sabse natural lagega.
+
+
+1000081004.jpg
+
+Ye photo profile/post ke liye kaafi achhi lag rahi hai—natural, confident aur clean. Iske saath caption bahut short rakho.
+
+Mere best options:
+
+“Quietly becoming.”
+
+“Just getting started.”
+
+“Becoming, one day at a time.”
+
+“Calm mind. Clear vision.”
+
+“Built by patience.”
+
+“In my own era.”
+
+“No rush. Just growth.”
+
+“Focused on the next chapter.”
+
+“Still becoming.”
+
+“Less talk. More growth.”
+
+🔥 Tumhare liye best
+“No rush. Just growth. ✦”
+
+Simple hai, aesthetic hai aur photo ke saath overconfident bhi nahi lagega.
+
+
+Today 8:24 AM
+Github me mere profile ke liye Advance Unique Readme do 
+
+
+Analysis paused
+Bilkul — maine tumhare GitHub profile ke liye advanced, clean aur unique developer-style README ready kar diya hai.
+
+Isme:
+
+👨‍💻 Founder & Developer branding
+
+🚧 Current projects
+
+🛠️ Tech stack
+
+📊 GitHub stats
+
+🔥 Streak
+
+📈 Contribution graph
+
+🎯 Developer philosophy
+
+📚 Currently learning
+
+🚀 Future-focused positioning
+
+✨ Minimal premium design
+
+Download: README.md
+
+Important
+Is README ko GitHub profile par use karne ke liye repository ka naam exactly rhnyadav hona chahiye, yani:
+
+github.com/rhnyadav/rhnyadav
+
+README upload karne ke baad GitHub automatically ise tumhare profile homepage par show karega.
+
+
+README.md
+Document
+
+
+No file chosen
+Library
+/
+README.md
+
+
+<div align="center">
+
+Rohan Yadav
+Founder & Developer · Builder · Problem Solver
+<p> <a href="https://github.com/rhnyadav"> <img src="https://img.shields.io/badge/GitHub-rhnyadav-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <img src="https://komarev.com/ghpvc/?username=rhnyadav&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views"/> <img src="https://img.shields.io/github/followers/rhnyadav?style=for-the-badge&label=FOLLOWERS" alt="Followers"/> </p>
+
+Building products. Solving problems. Creating the future.
+
+</div>
+
+01 — About Me
+I'm Rohan Yadav, a developer and builder focused on turning ideas into useful digital products.
+
+I enjoy working across web development, AI-powered applications, automation, SaaS, and developer tools. My approach is simple:
+
+Think → Build → Test → Improve → Ship
+I don't want to just write code.
+
+I want to build things people actually use.
+
+02 — What I'm Building
+Project	Focus	Status
+ClearKitPDF	PDF & document utility platform	🚧 Building
+BizPrime	Modern business management SaaS	🚧 Building
+AI Chat Platform	AI-powered conversational product	🚧 Building
+Rohan Advertising	Digital marketing & creative services	🟢 Active
+Some projects are evolving continuously as I experiment, learn, and improve.
+
+03 — Tech Stack
+Languages
+<p> <img src="https://skillicons.dev/icons?i=ts,js,python,html,css" alt="Languages"/> </p>
+
+Frontend
+<p> <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite" alt="Frontend"/> </p>
+
+Backend & Data
+<p> <img src="https://skillicons.dev/icons?i=nodejs,python,sqlite" alt="Backend"/> </p>
+
+Tools & Workflow
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,cloudflare" alt="Tools"/> </p>
+
+04 — Featured Work
+📄 ClearKitPDF
+A modern online document utility platform designed around fast, simple file workflows.
+
+Core direction
+
+PDF tools
+
+Document conversion
+
+File utilities
+
+Image utilities
+
+QR & barcode tools
+
+Privacy-focused processing
+
+SEO-friendly architecture
+
+Stack: Next.js React TypeScript Tailwind CSS Node.js
+
+📊 BizPrime
+A business management platform focused on bringing everyday business operations into one clean dashboard.
+
+Core direction
+
+Business dashboard
+
+Customer management
+
+Sales & operations
+
+Analytics
+
+Documents
+
+Admin controls
+
+Scalable SaaS architecture
+
+🤖 AI Chat Platform
+An AI-focused product experiment exploring conversational interfaces, modern UI, and scalable application architecture.
+
+Focus: AI Chat UX Web Apps Product Engineering
+
+05 — Developer Philosophy
+┌─────────────────────────────────────────────┐
+│                                             │
+│   Write less.                               │
+│   Think deeper.                             │
+│   Build better.                             │
+│                                             │
+│   Learn → Build → Fail → Improve → Repeat   │
+│                                             │
+└─────────────────────────────────────────────┘
+A few principles I follow
+Build before overthinking.
+
+Keep the UI simple.
+
+Solve the real problem first.
+
+Learn by shipping.
+
+Improve a little every day.
+
+Long-term > short-term hype.
+
+06 — GitHub Activity
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rhnyadav&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170" alt="GitHub stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhnyadav&layout=compact&hide_border=true&langs_count=8" height="170" alt="Top languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=rhnyadav&hide_border=true" height="180" alt="GitHub streak"/>
+
+</div>
+
+07 — Contribution Graph
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rhnyadav&hide_border=true&area=true&custom_title=Rohan%20Yadav%20—%20Contribution%20Graph" alt="Contribution graph"/>
+
+</div>
+
+08 — Currently Learning
+▸ Advanced Full-Stack Development
+▸ AI Application Development
+▸ SaaS Architecture
+▸ Automation
+▸ Product Engineering
+▸ Scalable Web Applications
+▸ Digital Product Growth
+09 — Beyond Code
+I believe development is more than programming.
+
+It's about:
+
+Ideas → Design → Engineering → Distribution → Impact
+
+That's why I'm interested in both technology and business — not just how to build a product, but how to make it useful and sustainable.
+
+10 — Let's Connect
+<div align="center">
+
+Have an idea worth building?
+Let's turn it into something real.
+
+<br/>
+
+<a href="https://github.com/rhnyadav"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a>
+
+</div>
+
+<div align="center">
+
+BUILD. LEARN. SHIP. REPEAT.
+<sub>Made with curiosity, code, and a long-term mindset.</sub>
+
+</div>
+
