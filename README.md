@@ -2,127 +2,89 @@
 
 Rohan Yadav
 
-Founder & Developer · Builder · Problem Solver
+Founder • Developer • Product Builder
 
 <p>
   <a href="https://github.com/rhnyadav">
-    <img src="https://img.shields.io/badge/GitHub-rhnyadav-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-rhnyadav-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=rhnyadav&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/rhnyadav?style=for-the-badge&label=FOLLOWERS" alt="Followers"/>
+  <a href="https://github.com/rhnyadav?tab=followers">
+    <img src="https://img.shields.io/github/followers/rhnyadav?style=for-the-badge&label=FOLLOWERS&color=161B22" alt="Followers"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=rhnyadav&style=for-the-badge&color=161B22&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
-Building products. Solving problems. Creating the future.
+<p>
+  <strong>Building digital products that turn ideas into useful experiences.</strong>
+</p>
+
+<p>
+  <code>Think</code> → <code>Design</code> → <code>Build</code> → <code>Ship</code> → <code>Improve</code>
+</p>
 
 </div>
 
-01 — About Me
+About
 
-I'm Rohan Yadav, a developer and builder focused on turning ideas into useful digital products.
+I'm Rohan Yadav — a developer, founder, and product-minded builder from India.
 
-I enjoy working across web development, AI-powered applications, automation, SaaS, and developer tools. My approach is simple:
+I like taking an idea from a blank screen to a working product: defining the problem, designing the experience, writing the code, deploying it, and continuously improving it.
 
-Think → Build → Test → Improve → Ship
+My interests sit at the intersection of:
 
-I don't want to just write code.
+Software Engineering · AI · SaaS · Automation · Product Design · Digital Business
 
-I want to build things people actually use.
+I don't just want to write code.
+I want to build things worth using.
 
-02 — What I'm Building
+What I Do
 
-Project
+┌──────────────────────┬────────────────────────────────────────────┐
+│ Product Engineering  │ Turning ideas into production-ready apps  │
+│ Full-Stack Web       │ Building modern, responsive web products  │
+│ AI Applications      │ Exploring practical AI-powered products  │
+│ SaaS                 │ Designing scalable business software      │
+│ Automation            │ Removing repetitive work with software   │
+│ Product Thinking     │ Connecting technology with real problems │
+└──────────────────────┴────────────────────────────────────────────┘
 
-Focus
-
-Status
+Selected Projects
 
 ClearKitPDF
 
 PDF & document utility platform
 
-🚧 Building
+A utility-focused product concept built around fast, simple and accessible document workflows.
+
+Direction
+
+PDF processing & conversion
+
+Image and document utilities
+
+QR / barcode generation
+
+File optimization
+
+Search-friendly tool architecture
+
+Clean, responsive user experience
+
+Next.js React TypeScript Tailwind CSS
 
 BizPrime
 
-Modern business management SaaS
+Business management SaaS
 
-🚧 Building
+A modern business-management platform designed to bring operational workflows into one place.
 
-AI Chat Platform
-
-AI-powered conversational product
-
-🚧 Building
-
-Rohan Advertising
-
-Digital marketing & creative services
-
-🟢 Active
-
-Some projects are evolving continuously as I experiment, learn, and improve.
-
-03 — Tech Stack
-
-Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,html,css" alt="Languages"/>
-</p>
-
-Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite" alt="Frontend"/>
-</p>
-
-Backend & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,sqlite" alt="Backend"/>
-</p>
-
-Tools & Workflow
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,cloudflare" alt="Tools"/>
-</p>
-
-04 — Featured Work
-
-📄 ClearKitPDF
-
-A modern online document utility platform designed around fast, simple file workflows.
-
-Core direction
-
-PDF tools
-
-Document conversion
-
-File utilities
-
-Image utilities
-
-QR & barcode tools
-
-Privacy-focused processing
-
-SEO-friendly architecture
-
-Stack: Next.js React TypeScript Tailwind CSS Node.js
-
-📊 BizPrime
-
-A business management platform focused on bringing everyday business operations into one clean dashboard.
-
-Core direction
+Direction
 
 Business dashboard
 
-Customer management
+Customer & data management
 
-Sales & operations
+Sales / operations workflows
 
 Analytics
 
@@ -130,102 +92,198 @@ Documents
 
 Admin controls
 
-Scalable SaaS architecture
+Scalable SaaS foundation
 
-🤖 AI Chat Platform
+Next.js TypeScript React Tailwind CSS
 
-An AI-focused product experiment exploring conversational interfaces, modern UI, and scalable application architecture.
+AI Chat Platform
 
-Focus: AI Chat UX Web Apps Product Engineering
+Conversational AI product
 
-05 — Developer Philosophy
+An ongoing exploration into AI-first interfaces, chat experiences, product architecture and practical AI applications.
 
-┌─────────────────────────────────────────────┐
-│                                             │
-│   Write less.                               │
-│   Think deeper.                             │
-│   Build better.                             │
-│                                             │
-│   Learn → Build → Fail → Improve → Repeat   │
-│                                             │
-└─────────────────────────────────────────────┘
+Focus
 
-A few principles I follow
+AI LLM Applications Chat UX Product Engineering
 
-Build before overthinking.
+Rohan Advertising & Marketing
 
-Keep the UI simple.
+Digital marketing & creative services
 
-Solve the real problem first.
+A business initiative focused on helping brands with digital presence, advertising and creative solutions.
 
-Learn by shipping.
+Marketing Branding Web Creative
 
-Improve a little every day.
+Technology
 
-Long-term > short-term hype.
+Languages
 
-06 — GitHub Activity
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,python,html,css" alt="Languages"/>
+</p>
+
+Frameworks & Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite" alt="Frameworks"/>
+</p>
+
+Backend & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,python,sqlite" alt="Backend"/>
+</p>
+
+DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,cloudflare,npm" alt="Tools"/>
+</p>
+
+Engineering Mindset
+
+I care about clarity over complexity.
+
+Good software
+      ↓
+Solves a real problem
+      ↓
+Feels simple to the user
+      ↓
+Is maintainable by the developer
+      ↓
+Can evolve as the product grows
+
+Principles
+
+Build for users, not just demos.
+
+Prefer simple systems over unnecessary complexity.
+
+Ship early, then iterate.
+
+Treat UI/UX as part of engineering.
+
+Write code that can survive the next version.
+
+Keep learning through real projects.
+
+Current Focus
+
+<table>
+<tr>
+<td width="50%">
+
+Building
+
+Full-stack web applications
+
+SaaS products
+
+AI-powered experiences
+
+Developer utilities
+
+Business software
+
+</td>
+<td width="50%">
+
+Improving
+
+System design
+
+Product architecture
+
+AI engineering
+
+Performance
+
+Security
+
+Deployment & DevOps
+
+</td>
+</tr>
+</table>
+
+GitHub Overview
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rhnyadav&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rhnyadav&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" height="175" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhnyadav&layout=compact&hide_border=true&langs_count=8" height="170" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhnyadav&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="175" alt="Top languages"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=rhnyadav&hide_border=true" height="180" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=rhnyadav&hide_border=true&theme=transparent" height="180" alt="GitHub contribution streak"/>
 
 </div>
 
-07 — Contribution Graph
+Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rhnyadav&hide_border=true&area=true&custom_title=Rohan%20Yadav%20—%20Contribution%20Graph" alt="Contribution graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rhnyadav&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph"/>
 
 </div>
 
-08 — Currently Learning
+Developer Journey
 
-▸ Advanced Full-Stack Development
-▸ AI Application Development
-▸ SaaS Architecture
-▸ Automation
-▸ Product Engineering
-▸ Scalable Web Applications
-▸ Digital Product Growth
+        LEARN
+          │
+          ▼
+       EXPLORE
+          │
+          ▼
+        BUILD
+          │
+          ▼
+         SHIP
+          │
+          ▼
+       MEASURE
+          │
+          ▼
+       IMPROVE
+          │
+          └───────────────► REPEAT
 
-09 — Beyond Code
+I'm still early in the journey — and that's exactly what makes it exciting.
 
-I believe development is more than programming.
+Every project is an opportunity to learn something new, improve the craft, and build something better than the last version.
 
-It's about:
+Beyond Code
 
-Ideas → Design → Engineering → Distribution → Impact
+Technology is only one part of building a product.
 
-That's why I'm interested in both technology and business — not just how to build a product, but how to make it useful and sustainable.
+I also enjoy learning about:
 
-10 — Let's Connect
+Business · Marketing · Branding · Product Strategy · Growth · Content
+
+My long-term goal is to combine engineering + product + business to create digital products with real-world value.
+
+Let's Build
+
+If you're working on something interesting, have a product idea, or simply want to connect with another builder:
 
 <div align="center">
 
-Have an idea worth building?
-
-Let's turn it into something real.
+Ideas are easy. Execution is the difference.
 
 <br/>
 
 <a href="https://github.com/rhnyadav">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Explore%20My%20Work-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
 </a>
 
 </div>
 
 <div align="center">
 
-BUILD. LEARN. SHIP. REPEAT.
+BUILD • LEARN • SHIP • REPEAT
 
-<sub>Made with curiosity, code, and a long-term mindset.</sub>
+<sub>Designed with simplicity. Built with curiosity.</sub>
 
 </div>
