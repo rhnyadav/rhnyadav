@@ -1,57 +1,43 @@
-# 👋 Hi, I'm Rohan Yadav
+# Hi, I'm Rohan Yadav 👋
 
-### Founder · Developer · Builder
+### Full-Stack Developer in Progress | Software Engineering | AI & Cloud
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Building+useful+digital+products;Exploring+AI+%26+SaaS;Turning+ideas+into+real+products;Think+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Ship"
-    alt="Rohan Yadav"
-  />
-</p>
+I'm a developer focused on building real-world software, learning modern
+engineering practices, and continuously improving my skills across
+full-stack development, cloud, DevOps, and AI.
 
-<p align="center">
-  <a href="https://github.com/rhnyadav">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-  <img
-    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"
-    alt="JavaScript"
-  />
-  <img
-    src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"
-    alt="TypeScript"
-  />
-  <img
-    src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"
-    alt="Python"
-  />
-  <img
-    src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"
-    alt="Next.js"
-  />
-</p>
-
-> **Building useful products. Solving real problems. Learning by shipping.**
+> **Learn → Build → Break → Debug → Improve → Repeat**
 
 ---
 
-## About
+## 🚀 About Me
 
-I'm **Rohan Yadav**, a developer and product builder focused on turning ideas into useful digital products.
+- 💻 Currently learning and building with modern web technologies
+- 🌐 Focused on Full-Stack Web Development
+- ⚡ Interested in scalable and production-ready applications
+- 🧠 Learning Computer Science, DSA & System Design
+- ☁️ Exploring Cloud, DevOps & Infrastructure
+- 🤖 Interested in AI-powered applications and automation
+- 🔐 Focused on writing secure and maintainable software
+- 🛠️ I learn best by building real projects
 
-I'm interested in:
+---
 
-- Full-stack development
-- AI applications
-- SaaS products
-- Automation
-- Developer tools
-- Digital products
-
-My approach:
+## 🎯 Current Focus
 
 ```text
-Think → Build → Test → Improve → Ship
+Full-Stack Development
+        ↓
+Software Engineering
+        ↓
+Backend Architecture
+        ↓
+Databases & APIs
+        ↓
+Docker & Linux
+        ↓
+Cloud & DevOps
+        ↓
+System Design
+        ↓
+AI Engineering
